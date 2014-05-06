@@ -1,4 +1,4 @@
-moved_to_lab2023
+Moved to lab2023
 ================
 
-All repositories moved under @lab2023 organisation page
+All repositories moved under [lab2023's organisation page](https://github.com/lab2023)
